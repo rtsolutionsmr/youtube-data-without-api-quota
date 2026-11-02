@@ -1,0 +1,1 @@
+{"description": "Collect YouTube search results, channels and full video stats (views, likes, comments, publish date) without the YouTube Data API quota, and rank channels in a niche. Uses the YouTube Scraper on Apify.", "topics": ["youtube", "youtube-api", "youtube-scraper", "web-scraping", "python", "data-science", "apify"]}
